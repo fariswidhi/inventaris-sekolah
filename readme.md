@@ -10,6 +10,7 @@ composer install
 - Ubah konfigurasi database dan lainnya di .ENV
 - ```
 php artisan migrate
+
 ```
 - ```
 php artisan db:seed
