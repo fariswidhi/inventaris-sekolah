@@ -29,7 +29,7 @@ class CreateBarangsTable extends Migration {
 
 
 	/**
-	 * Reverse the migrations.
+	 * Reverse the migations.
 	 *
 	 * @return void
 	 */
